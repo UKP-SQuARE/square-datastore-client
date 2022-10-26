@@ -1,0 +1,7 @@
+__pycache__
+.venv
+.vscode
+dist
+*.egg-info
+.env
+example.py
