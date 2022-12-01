@@ -19,5 +19,5 @@ setup(
             ".pre-commit-config.yaml",
         )
     ),
-    install_requires=["requests>=2.28.1", "square-auth>=0.0.11"],
+    install_requires=["requests>=2.28.1", "square-auth>=0.0.14"],
 )
